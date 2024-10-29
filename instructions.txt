@@ -1,0 +1,27 @@
+TRAFFIC PRIORITY IN AN INTERSECTION
+
+1. Main Lane vs. Diversion Lane
+Priority: Vehicles on the main lane have the right of way.
+
+2. Turn Left from Main Lane vs. Turn Left from Diversion Lane
+Priority: Vehicles turning left from the main lane have priority over those from the diversion lane.
+
+3. Turn Right from Main Lane vs. Turn Right from Diversion Lane
+Priority: Vehicles turning right from the main lane generally have priority.
+
+4. Pedestrian on Main Lane vs. Pedestrian on Diversion Lane
+Priority: Pedestrians on the main lane should have priority over those on the diversion lane.
+—-------------------------------
+Activity One
+The data will contain the priority, the traffic movement (sign, primary lane and secondary lanes, direction), and the time. This will be stored in the file called “traffic.dat”.
+
+Find the total time before a main pedestrian will be able to cross the road.
+
+Activity Two
+The data is similar to activity one but will be stored in a file separated with a comma and will contain multiple scenarios.
+
+The result will be stored back into a file called “traffic_result.dat”.
+
+
+
+
